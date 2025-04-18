@@ -1,0 +1,91 @@
+body {
+    font-family: Tahoma, sans-serif;
+    background: #fff;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 656px;
+}
+ .form {
+    width: 320px;
+    padding: 40px 100px;
+    background: #fff;
+ }
+.login {
+   font-family: Tahoma, sans-serif;
+   font-size: 20px;
+   font-weight: normal;
+   line-height: 16px;
+   color: #3D3D3D;
+   text-decoration: none;
+}
+.register {
+    font-family: Tahoma, sans-serif; 
+    font-size: 20px;
+    font-weight: normal;
+    line-height: 16px;
+    color: #46A358;
+    text-decoration: none;
+}
+.stick {
+    font-family: Tahoma, sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    line-height: 16px;
+    color: #3D3D3D;
+}
+.choice {
+    text-align: center;
+    padding-bottom: 20px;
+}
+.descr {
+    font-family: Tahoma, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 16px;
+    color: #3D3D3D;
+}
+.option {
+    font-family: Tahoma, sans-serif;
+    font-size: 13px;
+    font-weight: normal;
+    line-height: 16px;
+    color: #3D3D3D;
+    text-align: center;  
+    padding-bottom: 27px;  
+}
+.field {
+    width: 290px;
+    padding: 12px 14px;
+    margin-bottom: 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    font-size: 14px;
+    
+}
+.button-register {
+    width: 100%;
+    background: #46A358;
+    color: #fff;
+    padding: 12px;
+    font-size: 16px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    margin-bottom: 20px;
+}
+.auth-button {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    padding: 10px;
+    border: 1px solid #EAEAEA;
+    background: #fff;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 14px;
+}
